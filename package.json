@@ -5,7 +5,7 @@
   "homepage": "https://yassiremt.github.io/facedetection",
   "dependencies": {
     "clarifai": "^2.8.1",
-    "gh-pages": "^2.0.0",
+    "gh-pages": "^1.2.0",
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
     "react-particles-js": "^2.3.0",
